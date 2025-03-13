@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.14",
+    "tailwindcss": "^4.0.14"
+  },
+  "name": "tailwindcss-practice",
+  "description": "This repository is dedicated to my journey of learning Tailwind CSS, a utility-first CSS framework for building modern and responsive web designs quickly. It includes hands-on projects, code snippets, and best practices to master Tailwind’s powerful features.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
